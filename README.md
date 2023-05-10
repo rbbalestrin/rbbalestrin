@@ -4,7 +4,6 @@
 
 🔭 Atualmente trabalhando no projeto da CRWN Clothing, uma loja feita em React, utilizando tecnologias como Firebase, Stripe, React Routers, Sass, Typescript, etc
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
 
