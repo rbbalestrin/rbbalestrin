@@ -53,14 +53,15 @@ Meu portfólio no GitHub mostra uma variedade de projetos de programação, incl
 
 <br />
 <h2 align="left">📊 Estatísticas do GitHub</h2>
-<div align="center">
-[![card](https://github-readme-stats.vercel.app/api?username=rbbalestrin&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/rbbalestrin?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=rbbalestrin&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
 <br />
 <h2 align="left">🧰 Principais Linguagens Utilizadas</h2>
 <div align="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbkx226&layout=compact&langs_count=12" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbbalestrin&layout=compact&langs_count=12" />
 </div>
 
 <br />
