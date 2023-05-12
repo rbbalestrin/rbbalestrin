@@ -32,8 +32,6 @@ Meu portfólio no GitHub mostra uma variedade de projetos de programação, incl
 <br />
 <h2 align="left">🌟 Linguagens e Ferramentas</h2>
 <div>
-    <img align="left" src="./assets/dog
-
     <img align="left" src="./assets/dog.gif" width="120" height="140" loop="infinite"/>
     <img align="right" src="./assets/cat.gif" width="120" height="120" loop="infinite"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
@@ -57,7 +55,7 @@ Meu portfólio no GitHub mostra uma variedade de projetos de programação, incl
 <br />
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 <div align="center">
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rbbalestrin&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Renan Bez's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbbalestrin&theme=dark&show_icons=true)
 </div>
 <br />
 <br />
