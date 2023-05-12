@@ -67,5 +67,5 @@ Meu portfólio no GitHub mostra uma variedade de projetos de programação, incl
 <br />
 <h2 align="left">🐍 Contribuição no GitHub</h2>
 <div align="center">
-    <img src="https://github.com/rbbalestrin/rbbalestrin/blob/output/github-contribution-grid-snake.svg?palette=github-dark" />
+<img src="https://github.com/rbbalestrin/rbbalestrin/blob/output/github-contribution-grid-snake.svg?palette=github-dark" />
 </div>
