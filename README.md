@@ -4,7 +4,7 @@
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
-**`Entusiasta em Desenvolvimento Web [Estudante de Graduação | T3 Stack Lover]`**
+**`Entusiasta em Desenvolvimento Web [Estudante de Graduação | Three.js Enjoyer]`**
 
 <p style='text-align: justify;'>
 Bem-vindo ao meu perfil do Github, sou o Renan! Como estudante de ciência da computação altamente motivado e disciplinado, estou profundamente comprometido em seguir uma carreira no desenvolvimento front end. Através de uma combinação de estudos autodidatas e colaboração com meus colegas, estou continuamente trabalhando para aprimorar minhas habilidades e alcançar meu objetivo de me tornar um desenvolvedor completo.
