@@ -5,8 +5,11 @@
 </div>
 
 **`Entusiasta de Data Science [Estudante de Graduação]`**
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,python,cs,cpp,git,aws,astro,arch,figma,firebase,linux,sqlite,vim)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,ts,python,cs,cpp,git,aws,astro,arch,figma,firebase,linux,sqlite,vim" />
+  </a>
+</p>
 <br />
 <h2 align="left">🧰 Principais Linguagens Utilizadas</h2>
 <div align="center">
