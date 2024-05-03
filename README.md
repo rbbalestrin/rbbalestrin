@@ -1,6 +1,7 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 Renan Bez</h1>
+    <p>Olá, sou Renan Bez, também conhecido como themir. Tenho 20 anos e sou estudante de graduação em Ciência da Computação. Gosto de jogos de luta, ler livros e criar coisas. Tenho interesse em web design, data science e praticamente vivo no terminal. Algumas das minhas tecnologias favoritas são Rust, Svelte e Three.js.</p>
 </div>
 
 <div>
@@ -18,8 +19,3 @@
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbbalestrin&layout=compact&langs_count=12" />
 </div>
 
-<br />
-<h2 align="left">🐍 Contribuição no GitHub</h2>
-<div align="center">
-<img src="https://github.com/rbbalestrin/rbbalestrin/blob/output/github-contribution-grid-snake.svg?palette=github-dark" />
-</div>
