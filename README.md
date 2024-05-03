@@ -3,9 +3,11 @@
     <h1 align="left">😎 Renan Bez</h1>
 </div>
 
-**`Entusiasta de Data Science [Estudante de Graduação]`**
+<div>
+    
+<h2 align="left">🔥 Habilidades</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,python,cs,cpp,git,aws,astro,arch,figma,firebase,linux,sqlite,vim,flutter,vue,react,go,rust)](https://skillicons.dev)
-
+</div>
 <br />
 <h2 align="left">🧰 Principais Linguagens Utilizadas</h2>
 <div align="center">
