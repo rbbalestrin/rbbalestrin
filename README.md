@@ -1,7 +1,6 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 Renan Bez</h1>
-    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
 **`Entusiasta de Data Science [Estudante de Graduação]`**
