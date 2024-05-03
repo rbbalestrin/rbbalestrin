@@ -4,11 +4,8 @@
 </div>
 
 **`Entusiasta de Data Science [Estudante de Graduação]`**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,ts,python,cs,cpp,git,aws,astro,arch,figma,firebase,linux,sqlite,vim" />
-  </a>
-</p>
+[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=js,html,css,wasm,ts,python,cs,cpp,git,aws,astro,arch,figma,firebase,linux,sqlite,vim,flutter,vue,react,go,rust&perline=3))](https://skillicons.dev)
+
 <br />
 <h2 align="left">🧰 Principais Linguagens Utilizadas</h2>
 <div align="center">
