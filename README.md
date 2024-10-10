@@ -1,10 +1,12 @@
-<img src="./assets/mario.gif" alt="banner">
-    
-<h2 align="left">🔥 Skills</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,ts,python,cs,cpp,git,aws,astro,arch,figma,firebase,linux,sqlite,vim,flutter,vue,react,go,rust" />
-  </a>
-</p>
-<br />
+### Renan Bez
 
+Just a guy looking to make my developer workflow more awesome, design beautiful
+projects, understand memory, and ultimately craft really awesome experiences.
+
+Fun Facts
+* 2 times national robotic champion
+* Awwwards Nominee
+* Programming since 2016
+* I use vim, btw
+* I love design
+* There's a million things i haven't done, but just you wait
