@@ -7,7 +7,7 @@ projects, understand memory, and ultimately craft really awesome experiences.
 
 Fun Facts
 * 2 times national robotic champion
-* Awwwards Nominee
+* Comp Sci 4/8
 * Programming since 2016
 * I use vim, btw
 * I [write](https://medium.com/@therealrenanbez)
