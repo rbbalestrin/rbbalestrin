@@ -2,8 +2,7 @@
 
 ### Renan Bez
 
-Just a guy looking to make my developer workflow more awesome, design beautiful
-ux/ui, understand memory, and ultimately live and learn.
+Just a guy looking to design, code, live and learn.
 
 Fun Facts
 * 2 times national robotic champion
