@@ -10,6 +10,6 @@ Fun Facts
 * Programming since 2016
 * aWWWards nominee
 * I use vim, btw
-* I [write](https://medium.com/@therealrenanbez) about things I like
+* I [write](https://renanbez.substack.com) about things I like
 * You can learn more about me in [my website](https://www.renanbez.com/)
 * There's a million things i haven't done, but just you wait
